@@ -1,0 +1,9 @@
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\bin\Debug\Parte1ProyectoProgra.dll
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\bin\Debug\Parte1ProyectoProgra.pdb
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.FrmLogin.resources
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.Properties.Resources.resources
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.csproj.GenerateResource.cache
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.dll
+C:\Users\Peter\source\repos\Parte1ProyectoProgra\Parte1ProyectoProgra\obj\Debug\Parte1ProyectoProgra.pdb
